@@ -210,12 +210,14 @@ const manuel = {
         <br/><sub><b>WhatsApp</b></sub>
       </a>
     </td>
-    <td align="center" width="96">
-      <a href="mailto:maneulislam512@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
-        <br/><sub><b>Gmail</b></sub>
-      </a>
-    </td>
+   <td align="center" width="96">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=maneulislam512@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
+    <br />
+    <b>Gmail</b>
+  </a>
+</td>
+
   </tr>
 </table>
 
