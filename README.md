@@ -226,7 +226,7 @@ const manuel = {
 
 ---
 
-##💡 A Quote I Live By
+## 💡 A Quote I Live By
 <br/>
 <div align="center">
 <table>
