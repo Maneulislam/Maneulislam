@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:4a0080,60:9b30ff,100:ff69b4&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Manuel%20Islam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20from%20Bangladesh&descSize=15&descAlignY=58&descColor=f0c0ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:4a0080,60:9b30ff,100:ff69b4&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Maneul%20Islam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20from%20Bangladesh%20🇧🇩&descSize=15&descAlignY=58&descColor=f0c0ff" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+JavaScript+%7C+Tailwind+CSS;Building+Clean+%26+Responsive+UI's+%E2%9C%A8;Passionate+about+Great+User+Experiences+%F0%9F%92%BB" alt="Typing SVG" />
