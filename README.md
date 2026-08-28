@@ -96,6 +96,10 @@ const manuel = {
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
       <br/><sub><b>Express.js</b></sub>
     </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br/><sub><b>Node.js</b></sub>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br/><sub><b>MongoDB</b></sub>
@@ -114,10 +118,6 @@ const manuel = {
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
       <br/><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br/><sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
@@ -164,23 +164,6 @@ const manuel = {
 
 </div>
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Maneulislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneulislam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maneulislam&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="70%"/>
-
-<br/>
-
-</div>
 
 ---
 
