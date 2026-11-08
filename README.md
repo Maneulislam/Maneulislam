@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
+
 const manuel = {
   name:     "Manuel Islam",
   role:     "Frontend Developer",
@@ -27,13 +27,13 @@ const manuel = {
 
   stack: {
     frontend:  ["React", "TypeScript", "JavaScript"],
-    backend:   ["Express.js"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    backend:   ["Node.js", "Express.js"],
+    databases: ["MongoDB],
     tooling:   ["Git", "Linux", "VS Code"],
   },
   openToWork: true,
 };
-```
+
 
 <br/>
 
