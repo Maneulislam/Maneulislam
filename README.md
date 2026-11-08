@@ -18,6 +18,7 @@
 
 ## 🧑‍💻 About Me
 
+```
 
 const manuel = {
   name:     "Manuel Islam",
@@ -33,7 +34,7 @@ const manuel = {
   },
   openToWork: true,
 };
-
+```
 
 <br/>
 
