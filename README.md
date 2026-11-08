@@ -22,7 +22,7 @@
 
 const manuel = {
   name:     "Manuel Islam",
-  role:     "Frontend Developer",
+  role:     "MERN Stack Web Developer",
   location: "Bangladesh 🇧🇩",
   focus:    "Clean, Accessible & High-Performance Web Interfaces",
 
